@@ -1,7 +1,7 @@
 <?php
 
-namespace VendorName\Skeleton;
+namespace Jmusila\UnitConversions;
 
-class SkeletonClass
+class UnitConversionsClass
 {
 }
