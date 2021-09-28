@@ -18,11 +18,11 @@ class Weight
 
     public function toLbs(): float
     {
-        return $this->kilograms * 2.2046;
+        return $this->kilograms * 2.204623;
     }
 
     public function toTons(): float
     {
-        return $this->kilograms / 1000.0;
+        return $this->kilograms / 1000.000;
     }
 }
