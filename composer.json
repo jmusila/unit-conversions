@@ -7,15 +7,13 @@
     ],
     "homepage": "https://github.com/jmusila/unit-conversions",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Jonathan Musila",
-            "email": "jonathanmusila6@gmail.com",
-            "role": "Developer"
-        }
-    ],
+    "authors": [{
+        "name": "Jonathan Musila",
+        "email": "jonathanmusila6@gmail.com",
+        "role": "Developer"
+    }],
     "require": {
-        "php": "^8.0"
+        "php": "^7.4"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.0",
