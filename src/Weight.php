@@ -2,6 +2,6 @@
 
 namespace Jmusila\UnitConversions;
 
-class UnitConversionsClass
+class Weight
 {
 }
