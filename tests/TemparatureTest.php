@@ -3,7 +3,6 @@
 namespace Jmusila\UnitConversions\Tests;
 
 use Jmusila\UnitConversions\Temparature;
-use Jmusila\UnitConversions\Weight;
 use PHPUnit\Framework\TestCase;
 
 class TemparatureTest extends TestCase
