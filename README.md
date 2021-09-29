@@ -27,8 +27,10 @@ composer require jmusila/unit-conversions
 ## Usage
 
 ```php
-$skeleton = new Jmusila\UnitConversions();
-echo $skeleton->echoPhrase('Hello, Jmusila!');
+use Jmusila\UnitConversions\Weight;
+
+Weight::fromKilograms(100)->toTons(); // returns 0.1;
+
 ```
 
 ## Testing
